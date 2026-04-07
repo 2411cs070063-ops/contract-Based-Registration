@@ -1,0 +1,13 @@
+{
+  "name": "Smart-Contract-Based-Registration-main",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@types/node": "^22.19.15",
+    "dotenv": "^17.3.1",
+    "hardhat": "^2.22.10",
+    "ts-node": "^10.9.2",
+    "typescript": "~5.0.0"
+  }
+}
