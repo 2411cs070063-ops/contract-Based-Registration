@@ -1,6 +1,7 @@
 {
   "name": "Smart-Contract-Based-Registration-main",
   "version": "1.0.0",
+  "homepage": "https://2411cs070063-ops.github.io/contract-Based-Registration",
   "type": "commonjs",
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^5.0.0",
